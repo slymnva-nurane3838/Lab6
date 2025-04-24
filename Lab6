@@ -22,4 +22,4 @@ for i in range(n):
     s=0
     for j in range(m):
         s=s+k[i][j]
-    print("1-ci sətrdəki elementlərin cəmi=",s)
+    print(i+1,"-ci sətrdəki elementlərin cəmi=",s)
